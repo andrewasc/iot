@@ -1,3 +1,5 @@
+// Super legal
+
 #include <Servo.h>
 
 int SERVO = 6;  // definição do pino 6 para o servo
